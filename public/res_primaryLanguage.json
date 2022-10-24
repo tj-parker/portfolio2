@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Ursula Lopez. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm TJ Parker. I'm working cutting edge technology like React, Express, Node.js and MongoDB. What you are seeing now is my portfolio! I'm really excited to be a part of the world of technology, there's so much room to grow and explore. Before this I was working as an appliance repair technician, which kept my ability to problem solve on its toes in a high pressure environment. When someone's oven goes out three days before THanksgiving there's few feelings better than being able to deliver for that customer. The idea of taking this problem solving mindset in newer more uncertain world like software development sounds like a grand adventure I'm eager to be a part of",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,9 +11,9 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Horned Beasts",
+        "startDate": "2022",
+        "description": "React demo with bootstrap implementation. Demonstrates ",
         "images": [
           "images/portfolio/animal-shelter/p1.jpg",
           "images/portfolio/animal-shelter/p2.jpg"

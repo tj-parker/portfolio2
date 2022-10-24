@@ -109,7 +109,7 @@ class Header extends Component {
               <div className="title-container">
                 <HeaderTitleTypeAnimation />
               </div>
-              
+              <h4>Software Developer with diverse career experience including customer service, technical repair, and live performance. A hard working , curious, flexible, critical thinker. Willing (and excited) to learn just about anything!</h4>
             </div>
           </div>
         </div>

@@ -1,17 +1,17 @@
 {
     "basic_info": {
-      "name": "Ursula Lopez",
+      "name": "TJ Parker",
       "titles": [ "Software Developer" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/tj-parker",
           "class": "fab fa-github"
         },
         {
           "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "url": "https://www.linkedin.com/in/tj-parker/",
+          "class": "fab fa-linkedin"
         }
       ],
       "image": "myProfile.jpg"
