@@ -18,7 +18,7 @@
           "images/portfolio/animal-shelter/p1.jpg",
           "images/portfolio/animal-shelter/p2.jpg"
         ],
-        "url": "",
+        "url": "https://hornedbeasts2.netlify.app/",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
